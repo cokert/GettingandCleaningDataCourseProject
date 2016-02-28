@@ -1,4 +1,4 @@
- # ReadMe
+# ReadMe
  
  
  This repo contains my class project submission for week 4 of Getting and Cleaning Data.  The assignment is to read the average and stanard deviation data in [this dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) into a tidy dataset and then calculate the average for each column.  The code to accomplish this is in "run_analysis.R" in this repository.
